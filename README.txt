@@ -6,3 +6,4 @@ Requirements...
 - Make executable (chmod +x filepath/crsswrd.sh)
 
 Setting up a cron job is recommended, so you can have a backlog automatically made.
+https://crontab.guru
